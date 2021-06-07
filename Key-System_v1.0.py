@@ -1,11 +1,10 @@
-#Login System (v1.0)
+#Key System (v1.0)
 import os
 import stdiomask
 import platform
 
-title = 'Login System'
 OS = platform.system()
-K = 'root'
+K = 'root' #default key
 x = 3
 
 while x > 0:

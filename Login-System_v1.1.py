@@ -4,8 +4,8 @@ import stdiomask
 import platform
 
 OS = platform.system()
-UN = 'root'
-PW = 'root'
+UN = 'root' #default username
+PW = 'root' #default password
 x = 3
 
 while x > 0:

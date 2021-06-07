@@ -3,7 +3,6 @@ import os
 import stdiomask
 import platform
 
-title = 'Login System'
 OS = platform.system()
 UN = 'root'
 PW = 'root'

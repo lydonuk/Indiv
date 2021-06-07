@@ -12,7 +12,7 @@ x = 3
 while x > 0:
 
 	username = input('Username: ')
-	password = input('Password: ')
+	password = stdiomask.getpass('Password: ')
 	x = x - 1
 	
 	if username != UN or password != PW:

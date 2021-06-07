@@ -1,4 +1,4 @@
-#Login System (v1.0)
+#Login System (v1.1)
 import os
 import stdiomask
 import platform
